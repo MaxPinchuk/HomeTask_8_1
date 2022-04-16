@@ -5,4 +5,10 @@ package com.company.rozetka;
  */
 
 public class Comparison {
+
+    int price;
+    int year;
+    String nameProduct;
+    String producer;
+
 }

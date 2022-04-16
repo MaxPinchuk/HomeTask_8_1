@@ -5,4 +5,12 @@ package com.company.traking;
  */
 
 public class Insurance {
+
+    String nameInsurance;
+    String typeOfCargo;
+    String producer;
+    int price;
+    int weight;
+    int size;
+
 }

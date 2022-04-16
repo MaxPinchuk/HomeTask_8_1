@@ -5,4 +5,11 @@ package com.company.parking;
  */
 
 public class Visitors {
+
+    int date;
+    int time;
+    int carNumber;
+    String name;
+    String lastName;
+
 }

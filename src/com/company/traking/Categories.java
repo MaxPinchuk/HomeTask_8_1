@@ -5,4 +5,10 @@ package com.company.traking;
  */
 
 public class Categories {
+
+    String typeOfCargo;
+    int price;
+    String producer;
+    int weight;
+    int size;
 }

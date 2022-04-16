@@ -5,4 +5,8 @@ package com.company.traking;
  */
 
 public class Security {
+    int price;
+    String typeOfCargo;
+
+
 }

@@ -5,4 +5,10 @@ package com.company.rozetka;
  */
 
 public class Articles {
+
+    String title;
+    String text;
+    String nameProduct;
+    String producer;
+
 }

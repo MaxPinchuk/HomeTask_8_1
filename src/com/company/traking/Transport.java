@@ -6,4 +6,10 @@ package com.company.traking;
  */
 
 public class Transport {
+
+    String company;
+    String typeOfCargo;
+    int price;
+    int weight;
+    int size;
 }

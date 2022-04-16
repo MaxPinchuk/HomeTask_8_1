@@ -5,4 +5,8 @@ package com.company.rozetka;
  */
 
 public class Cart {
+
+    int price;
+    String nameProduct;
+    String producer;
 }

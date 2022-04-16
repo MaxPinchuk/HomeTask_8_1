@@ -5,4 +5,8 @@ package com.company.rozetka;
  */
 
 public class Contacts {
+
+    String name;
+    int phoneNumber;
+    String address;
 }

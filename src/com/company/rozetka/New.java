@@ -5,4 +5,9 @@ package com.company.rozetka;
  */
 
 public class New {
+
+    int price;
+    int year;
+    String nameProduct;
+    String producer;
 }

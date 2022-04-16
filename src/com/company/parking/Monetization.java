@@ -5,4 +5,9 @@ package com.company.parking;
  */
 
 public class Monetization {
+    int pricePerHour;
+    boolean subscription;
+    String name;
+    String lastName;
+
 }

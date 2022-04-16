@@ -5,4 +5,10 @@ package com.company.rozetka;
  */
 
 public class Reviews {
+
+    int price;
+    int year;
+    String nameProduct;
+    String producer;
+    String text;
 }

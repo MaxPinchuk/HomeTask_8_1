@@ -6,4 +6,9 @@ package com.company.traking;
  */
 
 public class Сalculation {
+
+    String typeOfCar;
+    int distance;
+    int weight;
+    int size;
 }

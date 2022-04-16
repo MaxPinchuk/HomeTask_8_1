@@ -6,4 +6,9 @@ package com.company.parking;
  */
 
 public class Recognition {
+
+    int carNumber;
+    boolean visitors;
+    String name;
+    String lastName;
 }
